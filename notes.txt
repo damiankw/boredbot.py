@@ -1,0 +1,6 @@
+create a 'get codebase' method which does the following:
+- calculate the total bytes in all of the script filed
+- write that to a file (or store it somewhere!)
+- if this has changed in between runs, it's a new 'build'
+
+also, make the user variables in a start.py and then pout the rest in another .py in classes plz
